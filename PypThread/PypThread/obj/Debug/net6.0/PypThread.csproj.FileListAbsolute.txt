@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\bin\Debug\net6.0\PypThread.exe
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\bin\Debug\net6.0\PypThread.deps.json
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\bin\Debug\net6.0\PypThread.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\bin\Debug\net6.0\PypThread.dll
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\bin\Debug\net6.0\PypThread.pdb
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.dll
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\refint\PypThread.dll
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.pdb
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\PypThread.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\PypThread\PypThread\obj\Debug\net6.0\ref\PypThread.dll
